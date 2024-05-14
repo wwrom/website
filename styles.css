@@ -19,6 +19,8 @@ header {
 
 main {
     padding: 20px;
+    text-align: center;
+
 }
 
 footer {
@@ -40,9 +42,9 @@ footer {
     font-size: 16px;
     margin-top: 20px;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
 .styled-button:hover {
-    background-color: #45a049;
+    background-color: white;
 }
